@@ -104,6 +104,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Developers
 
+Leco added.
+
 Please refer to the development section in the [docs/development](https://github.com/cleanflight/cleanflight/tree/master/docs/development) folder.
 
 TravisCI is used to run automatic builds: https://travis-ci.org/cleanflight/cleanflight
